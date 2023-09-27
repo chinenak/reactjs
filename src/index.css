@@ -1,0 +1,14 @@
+button {
+	width: 100px;
+	
+	padding: 14px;
+	border-radius: 3px;
+	background-color: white;
+  color: black;
+  border: 2px solid #4CAF50;
+  }
+
+  input[type=text] {
+	border: 2px solid red;
+	border-radius: 4px;
+  }
